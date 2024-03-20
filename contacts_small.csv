@@ -1,0 +1,3 @@
+type,name.first,name.last,location.street.number,location.street.name,location.city,location.state,location.postcode,email,dob.date,dob.age,phone,cell
+personal,Charlene,Price,8200,Spring St,Tampa,Louisiana,42681,charlene.price@example.com,1945-03-02T11:02:55.760Z,77,(702) 879-1332,(399) 810-9725
+work,Grace,Allen,8015,Sunset St,Worcester,Tennessee,90078,grace.allen@example.com,1966-02-09T01:46:21.096Z,57,(488) 873-7990,(933) 283-6864
